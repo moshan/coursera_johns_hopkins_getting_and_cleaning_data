@@ -34,36 +34,36 @@ Variables:
 -----------|-------------
 | subject | Subject ID
 | activity | Activity a person did such as WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
-| tbodyacc-mean-x |
-| tbodyacc-mean-y |
-| tbodyacc-mean-z |
-| tbodyacc-std-x |
-| tbodyacc-std-y |
-| tbodyacc-std-z |
-| tgravityacc-mean-x |
-| tgravityacc-mean-y |
-| tgravityacc-mean-z |
-| tgravityacc-std-x |
-| tgravityacc-std-y |
-| tgravityacc-std-z |
-| tbodyaccjerk-mean-x |
-| tbodyaccjerk-mean-y |
-| tbodyaccjerk-mean-z |
-| tbodyaccjerk-std-x |
-| tbodyaccjerk-std-y |
-| tbodyaccjerk-std-z |
-| tbodygyro-mean-x |
-| tbodygyro-mean-y |
-| tbodygyro-mean-z |
-| tbodygyro-std-x |
-| tbodygyro-std-y |
-| tbodygyro-std-z |
-| tbodygyrojerk-mean-x |
-| tbodygyrojerk-mean-y |
-| tbodygyrojerk-mean-z |
-| tbodygyrojerk-std-x |
-| tbodygyrojerk-std-y |
-| tbodygyrojerk-std-z |
+| tbodyacc-mean-x | the mean time for acceleration of the body in the x direction
+| tbodyacc-mean-y | the mean time for acceleration of the body in the y direction
+| tbodyacc-mean-z | the mean time for acceleration of the body in the x direction
+| tbodyacc-std-x | the standard deviation of time for acceleration of the body in the x direction
+| tbodyacc-std-y | the standard deviation of time for acceleration of the body in the y direction
+| tbodyacc-std-z | the standard deviation of time for acceleration of the body in the z direction
+| tgravityacc-mean-x | the mean time for acceleration of gravity in the x direction
+| tgravityacc-mean-y | the mean time for acceleration of gravity in the y direction
+| tgravityacc-mean-z | the mean time for acceleration of gravity in the z direction
+| tgravityacc-std-x | the standard deviation of time for acceleration of gravity in the x direction
+| tgravityacc-std-y | the standard deviation of time for acceleration of gravity in the y direction
+| tgravityacc-std-z | the standard deviation of time for acceleration of gravity in the z direction
+| tbodyaccjerk-mean-x | the mean time for body acceleration jerk in the x direction
+| tbodyaccjerk-mean-y | the mean time for body acceleration jerk in the y direction
+| tbodyaccjerk-mean-z | the mean time for body acceleration jerk in the z direction
+| tbodyaccjerk-std-x | the standard deviation of time for body acceleration jerk in the x direction
+| tbodyaccjerk-std-y | the standard deviation of time for body acceleration jerk in the y direction
+| tbodyaccjerk-std-z | the standard deviation of time for body acceleration jerk in the z direction
+| tbodygyro-mean-x | the mean body gyroscope measurement in the x direction
+| tbodygyro-mean-y | the mean body gyroscope measurement in the y direction
+| tbodygyro-mean-z | the mean body gyroscope measurement in the z direction
+| tbodygyro-std-x | the standard deviation of body gyroscope measurement in the x direction
+| tbodygyro-std-y | the standard deviation of body gyroscope measurement in the y direction
+| tbodygyro-std-z | the standard deviation of body gyroscope measurement in the z direction
+| tbodygyrojerk-mean-x | the mean body jerk gyroscope measurement in the x direction
+| tbodygyrojerk-mean-y | the mean body jerk gyroscope measurement in the y direction
+| tbodygyrojerk-mean-z | the mean body jerk gyroscope measurement in the z direction
+| tbodygyrojerk-std-x | the standard deviation of body jerk gyroscope measurement in the x direction
+| tbodygyrojerk-std-y | the standard deviation of body jerk gyroscope measurement in the y direction
+| tbodygyrojerk-std-z | the standard deviation of body jerk gyroscope measurement in the z direction
 | tbodyaccmag-mean |
 | tbodyaccmag-std |
 | tgravityaccmag-mean |
