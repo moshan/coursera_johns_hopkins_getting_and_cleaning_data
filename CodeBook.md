@@ -64,12 +64,12 @@ Variables:
 | tbodygyrojerk-std-x | the standard deviation of body jerk gyroscope measurement in the x direction
 | tbodygyrojerk-std-y | the standard deviation of body jerk gyroscope measurement in the y direction
 | tbodygyrojerk-std-z | the standard deviation of body jerk gyroscope measurement in the z direction
-| tbodyaccmag-mean |
-| tbodyaccmag-std |
-| tgravityaccmag-mean |
-| tgravityaccmag-std |
-| tbodyaccjerkmag-mean |
-| tbodyaccjerkmag-std |
+| tbodyaccmag-mean | the mean magnitude of body acceleration
+| tbodyaccmag-std | the standard deviation for magnitude of body acceleration
+| tgravityaccmag-mean | the mean magnitude of gravity acceleration
+| tgravityaccmag-std |  the standard deviation for magnitude of gravity acceleration
+| tbodyaccjerkmag-mean | the mean magnitude of body acceleration jerk
+| tbodyaccjerkmag-std | the standard deviation for magnitude of body acceleration jerk
 | tbodygyromag-mean |
 | tbodygyromag-std |
 | tbodygyrojerkmag-mean |
