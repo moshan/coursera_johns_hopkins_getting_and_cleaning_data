@@ -12,15 +12,10 @@ The sensor acceleration signal, which has gravitational and body motion componen
 The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used.
 From each window, a vector of features was obtained by calculating variables from the time and frequency domain.
 
-Transformation:
+Transformations:
 ================================================
 
-1. The categorical feature 'activity' was replaced to its descriptive string form instead of the numeric value by looking it up in the activity_labels.txt.
-2. The columns names were assigned by taking them from the features.txt and transforming them to a more cleaner by lower cain
-
-The test and train data which was split up was also combined back together by appending the *_test.txt and *_train.txt files together.
-
-The major steps performed in the script are as follows:
+The major steps performed were
 
 1. Combined the x_train.txt and x_test.txt
 2. Combined the subject_train.txt and subject_test.txt
@@ -38,7 +33,7 @@ Variables:
 | Variable | Description
 -----------|-------------
 | subject | Subject ID
-| activity |
+| activity | Activity a person did such as WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 | tbodyacc-mean-x |
 | tbodyacc-mean-y |
 | tbodyacc-mean-z |
@@ -107,6 +102,4 @@ Variables:
 | fbodybodygyrojerkmag-std |
 
 
-
-3. a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md.
 
