@@ -19,7 +19,7 @@ The major steps performed were
 
 1. Combined the x_train.txt and x_test.txt
 2. Combined the subject_train.txt and subject_test.txt
-3. CombineD the y_train and y_test
+3. Combined the y_train and y_test
 4. Used features.txt as the column names for the combined x dataset
 5. Droped all data in combined x that did not have '-mean' or '-std' in them
 6. Replaced the values in combined y by the descriptive activity names in activity.txt while also cleaning up the names by lower casing them
