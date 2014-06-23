@@ -70,36 +70,36 @@ Variables:
 | tgravityaccmag-std |  the standard deviation for magnitude of gravity acceleration
 | tbodyaccjerkmag-mean | the mean magnitude of body acceleration jerk
 | tbodyaccjerkmag-std | the standard deviation for magnitude of body acceleration jerk
-| tbodygyromag-mean |
-| tbodygyromag-std |
-| tbodygyrojerkmag-mean |
-| tbodygyrojerkmag-std |
-| fbodyacc-mean-x |
-| fbodyacc-mean-y |
-| fbodyacc-mean-z |
-| fbodyacc-std-x |
-| fbodyacc-std-y |
-| fbodyacc-std-z |
-| fbodyaccjerk-mean-x |
-| fbodyaccjerk-mean-y |
-| fbodyaccjerk-mean-z |
-| fbodyaccjerk-std-x |
-| fbodyaccjerk-std-y |
-| fbodyaccjerk-std-z |
-| fbodygyro-mean-x |
-| fbodygyro-mean-y |
-| fbodygyro-mean-z |
-| fbodygyro-std-x |
-| fbodygyro-std-y |
-| fbodygyro-std-z |
-| fbodyaccmag-mean |
-| fbodyaccmag-std |
-| fbodybodyaccjerkmag-mean |
-| fbodybodyaccjerkmag-std |
-| fbodybodygyromag-mean |
-| fbodybodygyromag-std |
-| fbodybodygyrojerkmag-mean |
-| fbodybodygyrojerkmag-std |
+| tbodygyromag-mean | the mean magnitude of body gyroscope measurement
+| tbodygyromag-std | the standard deviation magnitude of body gyroscope measurement
+| tbodygyrojerkmag-mean | the mean for magnitude of body gyroscope jerk measurement
+| tbodygyrojerkmag-std | the standard deviation for magnitude of body gyroscope jerk measurement
+| fbodyacc-mean-x | the mean frequency of body acceleration in the x direction
+| fbodyacc-mean-y | the mean frequency of body acceleration in the y direction
+| fbodyacc-mean-z | the mean frequency of body acceleration in the z direction
+| fbodyacc-std-x | the standard deviation for frequency of body acceleration in the x direction
+| fbodyacc-std-y | the standard deviation for frequency of body acceleration in the y direction
+| fbodyacc-std-z | the standard deviation for frequency of body acceleration in the z direction
+| fbodyaccjerk-mean-x | the mean frequency of body acceleration jerk in the x direction
+| fbodyaccjerk-mean-y | the mean frequency of body acceleration jerk in the y direction
+| fbodyaccjerk-mean-z | the mean frequency of body acceleration jerk in the z direction
+| fbodyaccjerk-std-x | the standard deviation of frequency for body acceleration jerk in the x direction
+| fbodyaccjerk-std-y | the standard deviation of frequency for body acceleration jerk in the y direction
+| fbodyaccjerk-std-z | the standard deviation of frequency for body acceleration jerk in the z direction
+| fbodygyro-mean-x | the mean frequency for body gyroscope measurement in the x direction
+| fbodygyro-mean-y | the mean frequency for body gyroscope measurement in the y direction
+| fbodygyro-mean-z | the mean frequency for body gyroscope measurement in the z direction
+| fbodygyro-std-x | the standard deviation of frequency for body gyroscope measurement in the x direction
+| fbodygyro-std-y | the standard deviation of frequency for body gyroscope measurement in the y direction
+| fbodygyro-std-z | the standard deviation of frequency for body gyroscope measurement in the z direction
+| fbodyaccmag-mean | the mean frequency of body acceleration magnitude
+| fbodyaccmag-std | the standard deviation of frequency for body acceleration magnitude
+| fbodybodyaccjerkmag-mean | the mean frequency for body acceleration jerk magnitude
+| fbodybodyaccjerkmag-std | the standard deviation frequency for body acceleration jerk magnitude
+| fbodybodygyromag-mean | the mean for frequency of magnitude of body gyroscope measurement
+| fbodybodygyromag-std | the standard deviation for frequency of magnitude of body gyroscope measurement
+| fbodybodygyrojerkmag-mean | the mean frequency for magnitude of body gyroscope jerk measurement
+| fbodybodygyrojerkmag-std | the standard deviation frequency for magnitude of body gyroscope jerk measurement
 
 
 
